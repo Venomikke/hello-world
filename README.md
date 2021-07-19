@@ -1,2 +1,3 @@
 # hello-world
-mainly tutorial stuff and ideas
+
+A bit about myself
